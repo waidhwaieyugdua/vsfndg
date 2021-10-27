@@ -1,5 +1,167 @@
 [
 	{
+		"name": "Fluid 65",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid65.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid65T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 64",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid64.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid64T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Minimal 30",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Min30.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Min30T.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Minimal 31",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Min31.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Min31T.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 59",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid59.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid59T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 34",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark34.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark34T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Minimal 32",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Min32.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Min32T.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 32",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark32.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark32T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 31",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark31.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark31T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Minimal 33",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Min33.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Min33T.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Minimal 34",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Min34.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Min34T.jpg",
+		"collections": "Minimal",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 30",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark30.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark30T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 29",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark29.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark29T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 33",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark33.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark33T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 62",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid62.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid62T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 63",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid63.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid63T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 60",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid60.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid60T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 61",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid61.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid61T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
 		"name": "3D 1",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHG/raw/main/3D1.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGT/raw/main/3D1T.jpg",
@@ -18,9 +180,27 @@
 		"downloadable": false
 	},
 	{
+		"name": "3D 6",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/3D6.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/3D6T.jpg",
+		"collections": "3D",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
 		"name": "Dark 26",
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/DARK26.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/DARK26T.jpg",
+		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 28",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark28.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark28T.jpg",
 		"collections": "Dark",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
@@ -31,6 +211,15 @@
 		"url": "https://github.com/waidhwaieyugdua/ALLVBHGextra/raw/main/GLASS1.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/ALLVBHGTextra/raw/main/GLASS1T.jpg",
 		"collections": "Glass",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Dark 27",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark27.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark27T.jpg",
+		"collections": "Dark",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
