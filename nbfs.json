@@ -54,6 +54,15 @@
 		"downloadable": false
 	},
 	{
+		"name": "Fluid 71",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid71.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid71T.jpg",
+		"collections": "Fluid",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
 		"name": "Minimal 36",
 		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Min36.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Min36T.jpg",
