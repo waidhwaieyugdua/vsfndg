@@ -9,15 +9,6 @@
 		"downloadable": false
 	},
 	{
-		"name": "Fluid 67",
-		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid67.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid67T.jpg",
-		"collections": "Fluid",
-		"dimensions": "1400 x 3020 px",
-		"copyright": "Personal Use Only",
-		"downloadable": false
-	},
-	{
 		"name": "Fluid 68",
 		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid68.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid68T.jpg",
@@ -175,6 +166,15 @@
 		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark30.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark30T.jpg",
 		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 67",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid67.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid67T.jpg",
+		"collections": "Fluid",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
