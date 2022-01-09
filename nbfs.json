@@ -1,14 +1,5 @@
 [
 	{
-		"name": "Fluid 66",
-		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid66.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid66T.jpg",
-		"collections": "Fluid",
-		"dimensions": "1400 x 3020 px",
-		"copyright": "Personal Use Only",
-		"downloadable": false
-	},
-	{
 		"name": "Niagara 17",
 		"url": "https://github.com/waidhwaieyugdua/u14/raw/main/N19.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/u14/raw/main/N19T.jpg",
@@ -37,8 +28,8 @@
 	},
 	{
 		"name": "Niagara 20",
-		"url": "https://github.com/waidhwaieyugdua/u14/raw/main/22.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/u14/raw/main/N23T.jpg",
+		"url": "https://github.com/waidhwaieyugdua/u14/raw/main/N22.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/u14/raw/main/N22T.jpg",
 		"collections": "Niagara",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
@@ -301,6 +292,15 @@
 		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Dark34.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Dark34T.jpg",
 		"collections": "Dark",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Fluid 66",
+		"url": "https://github.com/waidhwaieyugdua/GRI1/raw/main/Fluid66.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/GRI1T/raw/main/Fluid66T.jpg",
+		"collections": "Fluid",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
