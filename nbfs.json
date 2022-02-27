@@ -1,8 +1,18 @@
 [
+
 	{
-		"name": "Gradient 24",
-		"url": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient24.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient24T.jpg",
+		"name": "Gradient 30",
+		"url": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient30.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient30T.jpg",
+		"collections": "Gradient",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+	{
+		"name": "Gradient 32",
+		"url": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient32.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient32T.jpg",
 		"collections": "Gradient",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
@@ -54,9 +64,9 @@
 		"downloadable": false
 	},
 	{
-		"name": "Gradient 30",
-		"url": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient30.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient30T.jpg",
+		"name": "Gradient 24",
+		"url": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient24.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient24T.jpg",
 		"collections": "Gradient",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
@@ -71,7 +81,7 @@
 		"copyright": "Personal Use Only",
 		"downloadable": false
 	},
-{
+	{
 		"name": "Abstract 1",
 		"url": "https://github.com/waidhwaieyugdua/U5/raw/main/Abstract1.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/U5T/raw/main/Abstract1T.jpg",
@@ -121,15 +131,6 @@
 		"url": "https://github.com/waidhwaieyugdua/U5/raw/main/Abstract7.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/U5T/raw/main/Abstract7T.jpg",
 		"collections": "Abstract",
-		"dimensions": "1400 x 3020 px",
-		"copyright": "Personal Use Only",
-		"downloadable": false
-	},
-	{
-		"name": "Gradient 32",
-		"url": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient32.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/U6/raw/main/Gradient32T.jpg",
-		"collections": "Gradient",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
