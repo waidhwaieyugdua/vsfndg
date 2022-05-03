@@ -1,9 +1,90 @@
 [
 	{
-		"name": "3D 7",
-		"url": "https://github.com/waidhwaieyugdua/U7/raw/main/3D7.png",
-		"thumbnail": "https://github.com/waidhwaieyugdua/U7/raw/main/3D7T.jpg",
-		"collections": "3D",
+		"name": "Abstract 25",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract25.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract25T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 26",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract26.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract26T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 27",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract27.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract27T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 28",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract28.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract28T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 29",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract29.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract29T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 30",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract30.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract30T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 31",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract31.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract31T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 32",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract32.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract32T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 33",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract33.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract33T.jpg",
+		"collections": "Abstract",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Abstract 34",
+		"url": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract34.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U888/raw/main/Abstract34T.jpg",
+		"collections": "Abstract",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
@@ -12,6 +93,15 @@
 		"name": "3D 8",
 		"url": "https://github.com/waidhwaieyugdua/U7/raw/main/3D8.png",
 		"thumbnail": "https://github.com/waidhwaieyugdua/U7/raw/main/3D8T.jpg",
+		"collections": "3D",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "3D 7",
+		"url": "https://github.com/waidhwaieyugdua/U7/raw/main/3D7.png",
+		"thumbnail": "https://github.com/waidhwaieyugdua/U7/raw/main/3D7T.jpg",
 		"collections": "3D",
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
